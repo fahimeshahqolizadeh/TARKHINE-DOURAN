@@ -1,1 +1,12 @@
 @import url("base/_reset.css");
+@import url("base/_typography.css");
+@import url("components/_branch.css");
+@import url("components/_buttons.css");
+@import url("components/_kart-buttons.css");
+@import url("components/_login.css");
+@import url("components/_product-kart.css");
+@import url("components/_slider.css");
+@import url("components/_tabs.css");
+@import url("layout/_header.css");
+@import url("layout/_footer.css");
+@import url("layout/_forms.css");
